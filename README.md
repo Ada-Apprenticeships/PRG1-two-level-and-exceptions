@@ -26,7 +26,7 @@ with the code and its tasks together in one place.
 Activity 3 is the one that matters. A grid of numbers is worth twenty minutes;
 a list of dictionaries is what you will be reading for the rest of your career.
 
-### Afternoon: when things go wrong
+### Session 2: when things go wrong
 
 | Folder | Focus |
 |---|---|
